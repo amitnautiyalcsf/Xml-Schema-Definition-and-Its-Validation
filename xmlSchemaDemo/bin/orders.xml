@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders xmlns="http://myorders.com/orders"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://myorders.com/orders orders.xsd ">
+	<order>
+		<productId>1</productId>
+		<productName>iphone</productName>
+		<description>IphoneX</description>
+		<price>100000</price>
+		<imageUrl>https://apple/iphone.com</imageUrl>
+		<availability>2019-01-01</availability>
+		<rating>4.5</rating>
+	</order>
+</orders>
